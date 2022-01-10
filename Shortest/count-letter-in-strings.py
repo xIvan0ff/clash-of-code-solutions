@@ -1,4 +1,4 @@
-# Description:
+# Description
 # Over the centuries a language evolves, and not only do words appear or disappear, but some letters become more used or on the contrary less used.
 # In order to be able to quickly analyze many texts, we want to develop a program that calculates how many times a given letter is present in a text.
 
