@@ -9,4 +9,5 @@
 # Output < 21
 
 # 42 CHARACTERS
+
 print(sum(map(int,bin(int(input()))[2:])))
