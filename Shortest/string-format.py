@@ -1,4 +1,7 @@
+# Replace '_' with given word(s).
+# 56 CHARACTERS
+
 i=input
 s=i()
 i()
-print("".join(i()if c=='_'else c for c in s))
+i("".join(i()if c=='_'else c for c in s))
