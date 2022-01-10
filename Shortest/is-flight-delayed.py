@@ -1,5 +1,6 @@
 # NO DESCRIPTION AVAILABLE
 # 67 CHARACTERS
+
 i=input
 t=i()
 n=i()

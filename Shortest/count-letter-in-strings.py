@@ -10,6 +10,8 @@
 # Output:
 # the number of times that C appears in the text
 
+# 52 CHARACTERS
+
 i=input
 s=i()
 i(sum(i().count(s)for _ in'_'*int(i())))
