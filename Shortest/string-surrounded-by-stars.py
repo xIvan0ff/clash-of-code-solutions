@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# Description
 # You must print the string A surrounded by asterisks to form a box. 
 
 # Input
