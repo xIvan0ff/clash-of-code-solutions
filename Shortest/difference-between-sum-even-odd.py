@@ -7,7 +7,7 @@
 # Output
 # Line 1 : D = Sum of digits at even positions - Sum of digits at odd positions
 
-# 52 CHARACTERS
+# 48 CHARACTERS
 
-i=list(map(int,input()))
-print(2*sum(i[::2])-sum(i))
+*n,=map(int,input())
+print(2*sum(n[::2])-sum(n))
