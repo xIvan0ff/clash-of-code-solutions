@@ -13,7 +13,7 @@
 # 56 CHARACTERS
 
 I=input
-a,b,c=I(),I(),I()
-if a==b:I(c)
-if a==c:I(b)
+a,b=I(),I()
+if a==b:I(I())
+if a==I():I(b)
 I(a)
