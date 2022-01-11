@@ -9,8 +9,7 @@
 # Output
 # Line N : for each line given as input return the second maximum value.
 
-# 59 CHARACTERS
+# 57 CHARACTERS
 
-I=input
-I()
-while 1:print(sorted(map(int,I().split()))[-2])
+input()
+while 1:print(sorted(input().split(),key=int)[-2])
